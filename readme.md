@@ -23,7 +23,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-<span margin-left="5px">
+<span margin-left="20px">
   <img alt="License" src="./readme/dark.png">
   <img alt="License" src="./readme/light.png">
 </span>
