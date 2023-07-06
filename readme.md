@@ -17,7 +17,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O DevLinks é um agregador de links para usar como cartão de visitas online. <br>
+Acesse meu projeto em: <a href="https://brunaguirra.github.io/social-tree/" target="_blank">DevLinks</a>
 
 <br>
 
